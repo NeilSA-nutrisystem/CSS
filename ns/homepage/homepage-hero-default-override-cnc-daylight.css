@@ -1,0 +1,139 @@
+.hero-slide-2 {
+    background: url("/images/homepage/cool-n-carry-hero-bg.png") no-repeat;
+}
+.ns-carousel h1 {
+    color: #4f3a81;
+    font-family: "alwyn-new-web",Arial,Helvetica,sans-serif;
+    font-size: 43px;
+    font-weight: 500;
+    height: 50px;
+    left: 30px;
+    letter-spacing: -0.2px;
+    line-height: 50px;
+    position: relative;
+    top: 25px;
+}
+.ns-carousel h1 span {
+    font-size: 61px;
+    margin-left: 60px;
+}
+.ns-carousel h2 {
+    color: #4f3a81; !important;
+    font-family: "futura-pt",Arial,Helvetica,sans-serif;
+    font-size: 29px; !important;
+    font-weight: 500;
+    text-transform: uppercase;
+	height: 40px;
+	width: 500px;
+	top: 32px; !important;
+	left: 170px; !important;
+	text-align: center;
+	position: relative;
+}
+.ns-carousel .hero-content-container p {
+    color: #555555;
+    font-family: "futura-pt",Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 9px;
+	text-align:left;
+	position: relative;
+	top: 105px;
+	left: 55px;
+}
+.hero-disclaimer {
+    bottom: 0px;
+    color: #888888;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 9px;
+    left: 10px;
+    padding: 0;
+    position: relative;
+    text-align: left;
+	top: 220px;
+	line-height: 11px;
+}
+p.weight-loss {
+    position: absolute;
+    bottom: 6px;
+    right: 19px;
+    width: 75px;
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+.ns-carousel .fast-5-burst {
+    background: url("/images/homepage/fast-5-mysterygift-burst-purple.png") no-repeat;
+    height: 150px;
+    left: 530px;
+    padding: 31px 0 0 1px;
+    position: absolute;
+    top: 41px;
+    width: 150px;
+}
+.ns-carousel .fast-5-burst p.burst1 {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: none;
+    letter-spacing: 1.25px;
+    line-height: 18px;
+}
+.ns-carousel .main_cta {
+    background: url("/images/homepage/hero/hero-cta.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 40px;
+    display: block;
+    height: 94px;
+    left: 151px;
+    position: relative;
+    width: 314px;
+	top: 213px;
+    z-index: 100;
+}
+
+.ns-carousel .main_cta a.getStarted {
+position: relative;
+left: 95px;
+top: -60px;
+color: #fff;
+font-family: "alwyn-new-web", Arial, Helvetica, sans-serif;
+font-size: 28px;
+font-weight: 500;
+text-transform: lowercase;
+text-decoration: none;
+}
+
+.fast5logo {
+    background: url("/images/homepage/logo-f5-ko-lg-mysterygift.png") no-repeat;
+    height: 102px;
+    margin: 9px 0 11px 140px;
+    width: 261px;
+	position: relative;
+	top: 7px;
+	left: 205px;
+}
+
+.ns-carousel, .ns-carousel .pane {
+    height: 430px;
+    width: 940px;
+	background-position:center top;
+}
+
+.ns-carousel .hero-content-container {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.ns-carousel .hero-content-container ul {
+    position: relative;
+    left: 60px;
+    top: 110px;
+}
+
+.ns-carousel .hero-content-container li {
+font-family: "futura-pt", Arial, Helvetica, sans-serif;
+list-style: outside url("/images/diet_plans/ratecard/single_pane/checks-purple.png") disc;
+font-size: 20px;
+line-height: 29px;
+}
